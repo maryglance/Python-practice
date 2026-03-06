@@ -1,1 +1,1 @@
-A collection of all my Python practice
+A collection of all my Python practice works
